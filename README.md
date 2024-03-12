@@ -20,6 +20,4 @@ Using the slicing concept rotate the list
 ![image](https://github.com/RANJANKUMAR007/Circulate-the-values-of-N-variables/assets/152128740/118b5b38-1595-4fd4-be2a-7fb25c356c6b)
 
 
-## Output:
-
-## Result:
+## Result: Thus the program has been executed successfully
